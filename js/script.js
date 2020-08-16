@@ -59,9 +59,9 @@ $(document).ready(function(){
 		
 		if ( top > batas ) {
 			navbar.addClass('stiky');
-			logo.find('img').attr('src', '../images/logo.jpg');
+			logo.find('img').attr('src', 'images/logo.jpg');
 		}else {
-			logo.find('img').attr('src', '../images/logo-png.png');
+			logo.find('img').attr('src', 'images/logo-png.png');
 			navbar.removeClass('stiky');
 		}
 
