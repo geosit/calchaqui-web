@@ -59,7 +59,7 @@ Version: 1.0
  * 8. - RESPONSIVE
  * -----------------------------------------------------------------------------
  */
-/* import url("https://fonts.googleapis.com/css?family=Poppins:300,400,600,700"); */
+/* @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,600,700"); */
 @font-face {
   font-family: 'sas-webfont';
   src: url("../fonts/sas-webfont.eot?51534236");
